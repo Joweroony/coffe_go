@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">coffe_go</string>
+    <string name="togo">toGo</string>
+    <string name="coffee">Coffee</string>
+</resources>
